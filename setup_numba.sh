@@ -1,4 +1,4 @@
-# before install setuptool & numpy 
+#!/bin/bash
 
 wget https://github.com/llvm/llvm-project/releases/download/llvmorg-9.0.1/llvm-9.0.1.src.tar.xz
 tar -xvf llvm-9.0.1.src.tar.xz
